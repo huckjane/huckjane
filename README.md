@@ -1,7 +1,7 @@
 Hi, I'm Marsha Jelleff.
 I am a New York City based Software Engineer, focused on backend, but venturing into the front.
 
-I first started using GitHub many years ago for school projects but then abandoned my repositories for several years, coding in the dark of my local Vim.
+I first started using GitHub many years ago for school projects but then abandoned my repositories for several years, coding in the dark by Vim.
 Now, I have a renewed interest in publishing my code publically, sharing my mistakes and discoveries along this journey (for better or worse), 
 in a effort to contribute to the development of our open source universe.
 
